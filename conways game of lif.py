@@ -18,6 +18,6 @@ def print_grid(grid):
     os.system('cls' if os.name == 'nt' else 'clear')
     for row in grid:
         for cell in row:
-            print('■' if cell else ' ', end='')
+            print('#' if cell else '.', end='')
         print()
 print()
