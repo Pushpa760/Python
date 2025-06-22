@@ -1,6 +1,4 @@
-print("Name:Tejaswini M",
-       "AUID:1AY24AI111",
-       "Section:O")
+
 class Kangaroo:
     def __init__(self, name):
         self.name = name
