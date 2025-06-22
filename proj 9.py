@@ -1,6 +1,4 @@
-print("Name:Tejaswini M",
-       "AUID:1AY24AI111",
-       "Section:O")
+
 from datetime import datetime, timedelta
 
 def print_current_day():
