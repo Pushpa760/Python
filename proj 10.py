@@ -1,6 +1,4 @@
-print("Name:Tejaswini M",
-       "AUID:1AY24AI111",
-       "Section:O")
+
 class Time:
     def __init__(self, hour=0, minute=0, second=0):
         self.seconds = hour * 3600 + minute * 60 + second
